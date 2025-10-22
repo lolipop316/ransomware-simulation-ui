@@ -18,7 +18,7 @@ Click [HERE](https://lolipop316.github.io/ransomware-simulation-ui/) for free da
 
 ## Notes
 This is a front-end only simulation for learning purposes.  
-No real encryption or backend code included 😂
+No real encryption or backend code included 😂.
 Planning to update with js for mission 2.
 
 ## Version
