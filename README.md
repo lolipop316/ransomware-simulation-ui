@@ -6,10 +6,10 @@ It simulates a ransomware lock screen to show how front-end design can represent
 ## Github Pages
 Click [HERE](https://lolipop316.github.io/ransomware-simulation-ui/) for free dabloons 😍
 
-## Tech
-- HTML5  
-- CSS3
-- VS Code with Live Server
+## Used
+- HTML
+- CSS
+- VS Code to write everything up
 
 ## What I Practiced
 - Basic HTML structure and form elements  
