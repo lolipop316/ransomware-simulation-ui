@@ -15,5 +15,7 @@ It simulates a ransomware lock screen to show how front-end design can represent
 
 ## Notes
 This is a front-end only simulation for learning purposes.  
-No real encryption or backend code is included 😂
-`
+No real encryption or backend code included 😂
+
+## Version
+v1.0 – Initial static release
