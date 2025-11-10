@@ -4,7 +4,7 @@ A simple HTML and CSS project built for Mission Ready Diploma (Mission 1).
 Purpose was to simulates a ransomware lock screen to kinda show how front-end design can represent cybersecurity concepts.
 
 ## Github Pages
-Click [HERE](https://lolipop316.github.io/ransomware-simulation-ui/) for free dabloons 😍
+Click [HERE](https://notyourrootuser.github.io/ransomware-simulation-ui/) for free dabloons 😍
 
 ## What Was Used
 - HTML 
