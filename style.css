@@ -97,3 +97,14 @@ footer {
   font-size: 0.9rem;
   padding: 10px 0;
 }
+
+#restoreBtn:hover {
+  background-color: crimson;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+p {
+  font-family: monospace;
+}
