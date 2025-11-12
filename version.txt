@@ -1,1 +1,2 @@
 v1.0 - Initial static release (HTML + CSS only)
+v2.0 - JavaScript logic added 
