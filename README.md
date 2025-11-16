@@ -4,9 +4,8 @@ A simple HTML and CSS project built for Mission Ready Diploma (Mission 1).
 Purpose was to simulates a ransomware lock screen to kinda show how front-end design can represent cybersecurity concepts.
 
 For Mission 2, I expanded my original HTML/CSS project by adding **JavaScript** to make it interactive.  
-The new script creates a message element dynamically, reads user input, and checks it against fake valid keys and an authorization code.  
+The new script creates a message, reads user input, and checks it against the fake valid keys and an authorization code.  
 If both match, it displays a green success message; if not, a red error message appears all without reloading the page.  
-This update introduced functions, event listeners, DOM manipulation, and conditional logic, turning the project from a static page into a working simulation.
 
 ## Github Pages
 Click [HERE](https://notyourrootuser.github.io/ransomware-simulation-ui/) for free dabloons 😍
